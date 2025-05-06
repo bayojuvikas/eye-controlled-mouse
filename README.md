@@ -12,6 +12,17 @@ This project allows you to control your mouse cursor using your eye movements an
 - Blink detection for mouse click
 - Smooth cursor movement
 
+## 🧪 Usage
+Make sure your webcam is connected.
+
+Look at the screen and move your eyes to control the cursor.
+
+Blink once for a left-click.
+
+Blink twice for right-click.
+
+Blink three times for scrolling.
+
 📸 Algorithm
 
 <p float="left">  
