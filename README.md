@@ -37,7 +37,7 @@ Blink three times for scrolling.
 [▶️!Sample 1 video](assets/video.mp4)
 [▶️!Sample 2 video](assets/video1.mp4)
 
-## NOTE: In Above Attachments Click on view Raw to see the Samples
+## NOTE: In Above Attachments Click on view Raw to watch the Samples
 
 ## 📦 Requirements
 
