@@ -11,14 +11,14 @@ This project allows you to control your mouse cursor using your eye movements an
 
 📸 Algorithm
 
+![Eye Tracking](assets/Example.jpg)
 ![Eye Tracking](assets/Algorithm.png)
-![Eye Tracking](assets/Example 1.jpg)
 
 ---
 
 ## 🎬 Demo Video
 
-![Eye Tracking](assets/Real-Time video.mp4)
+![Eye Tracking](assets/Algorithm.png)
 
 ## 📦 Requirements
 
