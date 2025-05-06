@@ -34,8 +34,8 @@ Blink three times for scrolling.
 
 ## 🎬 Demo Video
 
-[▶️!Sample 1 video](assets/video.mp4)
-[▶️!Sample 2 video](assets/video1.mp4)
+[▶️Sample 1 video](assets/video.mp4)
+[▶️Sample 2 video](assets/video1.mp4)
 
 ## NOTE: In Above Attachments Click on view Raw to watch the Samples
 
