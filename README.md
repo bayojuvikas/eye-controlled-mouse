@@ -16,9 +16,3 @@ Install dependencies with:
 ```bash
 
 pip install -r requirements.txt
-
-🚀 Run the Project
-Make sure your webcam is connected and then run:
-
-```bash
-python main.py
