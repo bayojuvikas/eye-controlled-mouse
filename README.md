@@ -23,8 +23,8 @@ This project allows you to control your mouse cursor using your eye movements an
 
 ## 🎬 Demo Video
 
-[!Watch the video](assets/video.mp4)
-[!Watch the video](assets/video1.mp4)
+[▶️!Sample 1 video](assets/video.mp4)
+[▶️!Sample 2 video](assets/video1.mp4)
 
 ## NOTE: Please click on the image and then download the video.
 
