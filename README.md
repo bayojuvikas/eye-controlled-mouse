@@ -9,6 +9,17 @@ This project allows you to control your mouse cursor using your eye movements an
 - Blink detection for mouse click
 - Smooth cursor movement
 
+📸 Algorithm
+
+![Eye Tracking](assets/Algorithm.png)
+![Eye Tracking](assets/Example 1.jpg)
+
+---
+
+## 🎬 Demo Video
+
+[Click to download demo video](assets/Real-Time video.mp4)
+
 ## 📦 Requirements
 
 Install dependencies with:
@@ -16,3 +27,5 @@ Install dependencies with:
 ```bash
 
 pip install -r requirements.txt
+
+```
