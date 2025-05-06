@@ -1,4 +1,7 @@
 # Eye Controlled Mouse 🎯👁️
+<p float="left">
+  <img src="assets/Example.jpg" width="700" />
+</p>
 
 This project allows you to control your mouse cursor using your eye movements and perform clicks using blinks! Built using Python, OpenCV, MediaPipe, and PyAutoGUI.
 
@@ -11,9 +14,7 @@ This project allows you to control your mouse cursor using your eye movements an
 
 📸 Algorithm
 
-<p float="left">
-  <img src="assets/Example.jpg" width="700" />
-  
+<p float="left">  
   <img src="assets/Algorithm.png" width="700" />
 </p>
 
@@ -24,6 +25,8 @@ This project allows you to control your mouse cursor using your eye movements an
 
 [![Watch the video](assets/Example1.jpg)](assets/video.mp4)
 [![Watch the video](assets/Example1.jpg)](assets/video1.mp4)
+
+## NOTE: Please download the video to see how this code making magics .Just click on the image and then download the video.
 
 ## 📦 Requirements
 
