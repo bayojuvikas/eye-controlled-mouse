@@ -1,5 +1,7 @@
 # Eye Controlled Mouse 🎯👁️
-📷 How it Works Uses MediaPipe to extract facial landmarks  Tracks the right eye's pupil and calculates its position on screen  Detects blinks using Eye Aspect Ratio (EAR)  Clicks the mouse when a blink is detected
+# 📷 How it Works: 
+* Uses MediaPipe to extract facial landmarks  Tracks the right eye's pupil and calculates its position on screen.
+* Detects blinks using Eye Aspect Ratio (EAR) Clicks the mouse when a blink is detected.
 <p float="left">
   <img src="assets/Example.jpg" width="700" />
 </p>
